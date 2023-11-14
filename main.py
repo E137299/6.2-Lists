@@ -41,4 +41,12 @@ def rotate_list_left(my_list, k):
     pass
 
 
+# Rotate the elements of the list k positions to the right Return list.
+# rotate_list_left([1,2,3,4,5],1) --> [5,1,2,3,4]
+# rotate_list_left(["a","b","c","d","e","f"],3) --> ["d","e","f","a","b","c"]
+def rotate_list_right(list, k):
+    pass
+
+
+
 
