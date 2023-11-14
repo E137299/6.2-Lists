@@ -12,12 +12,6 @@ def replace_middle_element(my_list):
     pass
 
 
-# Return a new list containing only the even-indexed elements of the given list.
-# even_indexed_element([0,2,4,6,8]) --> []
-# even_indexed_element([23,25,27,40,44,23]) --> [40,44]
-def even_indexed_elements(my_list):
-    pass
-
 
 # Reverse the elements from index 2 to index 5 in the given list. Return list
 # reverse_subset([1,2,3,4,5,6,7,8,9,10]) --> [1,2,6,5,4,3,7,8,9,10]
