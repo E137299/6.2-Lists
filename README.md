@@ -74,15 +74,15 @@ Practice list manipulation skills by writing functions that modify lists in vari
 5. **Rotate List Left**
    Rotate the elements of the list `k` positions to the left.
    ```python
-  def rotate_list_left(my_list, k):
+     def rotate_list_left(my_list, k):
        pass
 
-   # Example function calls:
-   print(rotate_list_left([1, 2, 3, 4, 5], 1))  
-   # Output: [2, 3, 4, 5, 1]
-
-   print(rotate_list_left(["a", "b", "c", "d", "e", "f"], 3))  
-   # Output: ["d", "e", "f", "a", "b", "c"]
+      # Example function calls:
+      print(rotate_list_left([1, 2, 3, 4, 5], 1))  
+      # Output: [2, 3, 4, 5, 1]
+   
+      print(rotate_list_left(["a", "b", "c", "d", "e", "f"], 3))  
+      # Output: ["d", "e", "f", "a", "b", "c"]
    ```
 
 ---
